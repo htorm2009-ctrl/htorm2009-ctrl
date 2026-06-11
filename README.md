@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет 👋
 
-<!--
-**htorm2009-ctrl/htorm2009-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик
 
-Here are some ideas to get you started:
+💻 Люблю Python  
+⚙️ Делаю бэкенд  
+🎮 Иногда играю в Minecraft  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Мои навыки
+- Python
+- FastAPI
+- Docker
+- Git
+
+---
+
+## Связь
+Telegram: @username
